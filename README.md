@@ -7,6 +7,7 @@
 [论文网址2](https://dblp.org/pid/218/6831.html)
 
 #### 1、Anomaly Detection in Video via Self-Supervised and Multi-Task Learning
+#### 2、Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video
 
 
 ## 按实验室
