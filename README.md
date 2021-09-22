@@ -9,6 +9,9 @@
 #### 1、Anomaly Detection in Video via Self-Supervised and Multi-Task Learning
 #### 2、Object-centric Auto-encoders and Dummy Anomalies for Abnormal Event Detection in Video
 
+### Thomas Schlegl
+[论文网址](https://scholar.google.at/citations?user=-RiFPWoAAAAJ&hl=en)
+
 
 ## 按实验室
 
